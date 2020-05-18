@@ -1,1 +1,1 @@
-# progressive---enhancement
+# Progressive-enhancement
