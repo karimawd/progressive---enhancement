@@ -1,0 +1,46 @@
+body{
+    max-width: 90%;
+    margin: auto;
+    background: -webkit-linear-gradient(149deg, rgb(194, 198, 165), rgb(243, 238, 224));
+    background: linear-gradient(149deg, rgb(194, 198, 165), rgb(243, 238, 224));
+    /*background-image: url("chinese farmer.jpg");*/
+    background-position: bottom right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #696969;
+    font-family: 'Open Sans', sans-serif;
+    padding: 5%;
+}
+
+a{
+    color: darkolivegreen;
+}
+
+a:hover{
+    color: lightgreen;
+}
+
+a:visited{
+    color: olive;
+}
+
+q {
+    width: 50%;
+    margin: auto;
+    font-size: 160%;
+    background-color: lightgray;
+    border-left: 3px;
+    padding-left: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-style: italic;
+
+}
+
+.farmer{
+    border-left: 2px solid blue;
+}
+
+.villagers {
+    border-left: 2px solid purple;
+}
