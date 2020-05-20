@@ -17,11 +17,11 @@ a{
 }
 
 a:hover{
-    color: lightgreen;
+    color: darkblue;
 }
 
 a:visited{
-    color: olive;
+    color: red;
 }
 
 q {
@@ -76,6 +76,12 @@ img{
     float: left;
     margin-right: 25px;
     margin-bottom: 20px;
+}
 
-
+.notification-block {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
 }
